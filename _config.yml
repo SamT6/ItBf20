@@ -5,7 +5,8 @@ highlighter:      rouge
 # Setup
 title:            TIBA
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Intro to Blockchain Fall 2020'
+# description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
