@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            TIBA
 tagline:          'A Jekyll theme'
-description:      'Intro to Blockchain Fall 2020'
+description:      'Intro to Blockchain <br/> Fall 2020'
 # description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io
 baseurl:          
