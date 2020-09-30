@@ -3,7 +3,6 @@ layout: page
 title: Lecture 0
 sidebar_link: true
 ---
-
 # Introduction to Blockchain
 
 <p class="message">
