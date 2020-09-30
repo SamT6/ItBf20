@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 3
+title: Lecture 0
 sidebar_link: true
 ---
 
@@ -9,3 +9,4 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
+Intro to Blockchain

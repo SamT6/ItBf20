@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 3
+title: Lecture 4
 sidebar_link: true
 ---
 
@@ -9,3 +9,4 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
+Blockchain 1.0 Bitcoin

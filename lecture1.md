@@ -9,4 +9,4 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
-Intro to Blockchain
+Cryptography

@@ -9,4 +9,4 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
-Cryptography
+Blockchain 1.0 Bitcoin

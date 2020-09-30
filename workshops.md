@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 3
+title: Workshops
 sidebar_link: true
 ---
 
