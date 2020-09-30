@@ -4,9 +4,8 @@ title: Lecture 0
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+# Introduction to Blockchain
 
-Intro to Blockchain
+<p class="message">
+  we start by talking about the history of blockchain and a high-level overview of what blockchain is
+</p>
