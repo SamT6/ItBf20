@@ -10,6 +10,8 @@ description: Introduction to Blockchain
 </p>
 
 <a href="lectures/TIBA_ItB_f20_lec0.pdf">Slides</a>
+<a href="https://youtu.be/Ik93CUyB8HA">Watch</a>
+
 
 ## Homework
 * <a href="https://vimeo.com/161183966">Vinay Gupta - the Promise of the Blockchain</a>
