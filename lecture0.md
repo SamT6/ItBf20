@@ -6,7 +6,7 @@ description: Introduction to Blockchain
 ---
 
 <p class="message">
-  we start by talking about the history of blockchain and a high-level overview of what blockchain is
+  we start by talking about the history of blockchain and what blockchain is at a high level
 </p>
 
 <a href="lectures/TIBA_ItB_f20_lec0.pdf">Slides</a>
