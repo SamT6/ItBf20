@@ -32,3 +32,5 @@ Blockchain 101 - A Visual Demo </a>
 * <a href="https://www.youtube.com/watch?v=Y9YgRDJAFEE">Zero-knowledge proofs intro with Str4d (Zcash)</a>
 * <a href="https://www.youtube.com/watch?v=J3jKROwTPCs">Zero Knowledge Proofs and Their Future Applications by Elad Verbin at Web3 Summit 2018</a>
 * <a href="https://hackernoon.com/wtf-is-zero-knowledge-proof-be5b49735f27">WTF is Zero-Knowledge Proof</a>
+* <a href="https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99">Understanding Zero-knowledge proofs through illustrated examples</a>
+
