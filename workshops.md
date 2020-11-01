@@ -11,7 +11,7 @@ sidebar_link: true
 Resources:
 <br/> 
 <a href="">Watch</a>
-<a href="">Slides</a>
+<a href="lectures/workshop_1_findora.pdf">Slides</a>
 <br/>
 <a href="https://findora.org/">Findora Offical Website</a>
 <br/>
@@ -22,6 +22,18 @@ Resources:
 More about ZKP see 
 <a href="https://samt6.github.io/TIBAItBf20/lecture1.html">Lecture 1 </a>
 
+<br/> 
+<br/> 
 
 
+## Oct 30th, Saturday
+## TIBA Blockchain in Code 
+## Smart Contract Demo
+### 9:30am-10:30am Beijing Time 
 
+Resources:
+<br/> 
+<a href="https://youtu.be/6jMZIN6mCg4">Watch</a>
+<a href="lectures/workshop_2_lottery_smart_contract.pdf">Slides</a>
+<a href="">Code on Github</a>
+<br/>
