@@ -35,5 +35,5 @@ Resources:
 <br/> 
 <a href="https://youtu.be/6jMZIN6mCg4">Watch</a>
 <a href="lectures/workshop_2_lottery_smart_contract.pdf">Slides</a>
-<a href="">Code on Github</a>
+<a href="https://github.com/kuoyehs/tiba-lottery">Code on Github</a>
 <br/>
