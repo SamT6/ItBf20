@@ -10,7 +10,7 @@ sidebar_link: true
 
 Resources:
 <br/> 
-<a href="">Watch</a>
+<a href="https://youtu.be/rk6-daGiVek">Watch</a>
 <a href="lectures/workshop_1_findora.pdf">Slides</a>
 <br/>
 <a href="https://findora.org/">Findora Offical Website</a>
