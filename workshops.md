@@ -37,3 +37,16 @@ Resources:
 <a href="lectures/workshop_2_lottery_smart_contract.pdf">Slides</a>
 <a href="https://github.com/kuoyehs/tiba-lottery">Code on Github</a>
 <br/>
+
+<br/> 
+<br/> 
+
+## Nov 15th, Sunday
+## Conflux & DAG Blockchain 
+### 9:00pm-10:00pm Beijing Time 
+
+Resources:
+<br/> 
+<a href="">Watch</a>
+<a href="lectures/.pdf">Slides</a>
+<br/>
