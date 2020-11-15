@@ -49,6 +49,7 @@ Resources:
 <br/> 
 <a href="https://youtu.be/Zcx2rP_2Z3g">Watch</a>
 <a href="lectures/workshop_3_conflux-consensus-tiba-2020-11-15.pdf">Slides</a>
+<br/>
 <a href="https://confluxnetwork.org/">Conflux Offical Website</a>
 <a href="https://www.edu.confluxnetwork.org/?lang=en">CONFLUX UMA EDU INITIATIVE - DUBHE</a>
 <br/>
